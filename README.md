@@ -7,4 +7,24 @@
 
 ## Code things I could do
 
-- Learn new technologies e.g. vue, express, flask, mongodb, aws, next, tailwind, django, redux, vite, node, nest, graphql, postgres, docker, ci/cd, react native, flutter, pwa
+### Learn new technologies
+
+- ⬜ vue
+- ⬜ express
+- ⬜ flask
+- ⬜ mongodb
+- ⬜ aws
+- ✅ next
+- ✅ tailwind
+- ⬜ django
+- ⬜ redux
+- ⬜ vite
+- ⬜ node
+- ⬜ nest
+- ✅ graphql
+- ✅ postgres
+- ⬜ docker
+- ✅ ci/cd
+- ⬜ react native
+- ✅ flutter
+- ⬜ pwa
