@@ -20,7 +20,7 @@
 - ⬜ django
 - ⬜ redux
 - ⬜ vite
-- ⬜ node
+- ✅ node
 - ⬜ nest
 - ✅ graphql
 - ✅ postgres
@@ -29,3 +29,7 @@
 - ⬜ react native
 - ✅ flutter
 - ⬜ pwa
+
+### Project ideas
+
+- Graduation photo matching with video/audio
