@@ -31,6 +31,7 @@
 - ⬜ Lettuce mining
 - ⬜ Meditation app
 - ⬜ Mini square site
+- ⬜ Colours (blindness simulator)
 
 ## Photography
 
